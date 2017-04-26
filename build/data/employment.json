@@ -1,0 +1,20 @@
+[
+  {
+    "company_name": "Xebia IT Architects",
+    "designation": "Consultant",
+    "link": "https://xebia.com/",
+    "logo_src": "./assets/images/userImages/xebia.png"
+  },
+  {
+    "company_name": "Tata Consultancy Services",
+    "designation": "Systems Engineer",
+    "link": "https://www.tcs.com/",
+    "logo_src": "./assets/images/userImages/tcs.png"
+  },
+  {
+    "company_name": "Adela Software & Services",
+    "designation": "Software Engineer",
+    "link": "http://adelasoftware.com/",
+    "logo_src": "./assets/images/userImages/adela.png"
+  }
+]

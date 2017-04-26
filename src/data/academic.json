@@ -1,0 +1,20 @@
+[
+  {
+    "institution_name": "Oxford Engineering College",
+    "degree": "B.E CSE",
+    "link": "http://oxfordec.edu.in/",
+    "logo_src": "./assets/images/userImages/oec.jpg"
+  },
+  {
+    "institution_name": "National College Higher Secondary School",
+    "degree": "HSC",
+    "link": "#",
+    "logo_src": ""
+  },
+  {
+    "institution_name": "National College Higher Secondary School",
+    "degree": "SSLC",
+    "link": "#",
+    "logo_src": ""
+  }
+]

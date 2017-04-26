@@ -1,0 +1,132 @@
+[
+  {
+    "name": "CPC",
+    "description": "Crown Prince Court is a management tool to manage and organize the requests from the citizens to the Court.",
+    "img_src": "./assets/images/userImages/cpc.png",
+    "web_src": "",
+    "technologies": [
+      "Angular 1.6.3",
+      "HTML5/CSS3/Bootstrap 3/RTL",
+      "Javascript ES6/Karma - Jasmine",
+      "C#"
+    ]
+  },
+  {
+    "name": "DLSW",
+    "description": "Digital Leader Standard Work enables organizations to manage and organize meetings and sessions in a Leader Standard and in a Lean way.",
+    "img_src": "./assets/images/userImages/dlsw.png",
+    "web_src": "",
+    "technologies": [
+      "Angular 1.5.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "Javascript ES6/Karma - Jasmine",
+      "Rails 4.2/MySQL 5.0.27"
+    ]
+  },
+  {
+    "name": "OEI",
+    "description": "Operational Excellence Index helps manufacturing industries to assess each employee’s performance based on different criteria.",
+    "img_src": "./assets/images/userImages/oei.png",
+    "web_src": "",
+    "technologies": [
+      "Angular 1.5.4",
+      "Jade/HTML5/CSS3/Bootstrap 3",
+      "Javascript ES6/Karma - Jasmine",
+      "Rails 4.2/MySQL 5.0.27"
+    ]
+  },
+  {
+    "name": "OnLine Taxes",
+    "description": "OnLine Taxes provides federal and state online tax preparation and electronic filing for individual taxpayers across United States of America.",
+    "img_src": "./assets/images/userImages/olt.png",
+    "web_src": "https://www.olt.com/main/home/default.asp",
+    "technologies": [
+      "Angular 1.5.4",
+      "HTML5/CSS3/Bootstrap 3",
+      "Javascript 1.8",
+      "PHP 5.6.10",
+      "SQL Server 2014"
+    ]
+  },
+  {
+    "name": "OnLine Taxes Desktop",
+    "description": "OnLine Taxes Desktop is a desktop version of olt.com which provides federal and state tax preparation and electronic filing for individual taxpayers across United States of America.",
+    "img_src": "./assets/images/userImages/oltpro.png",
+    "web_src": "https://www.oltpro.com/main/pro/default.asp",
+    "technologies": [
+      "C# Forms ( Dotnet Framework 2.0 )",
+      "XML 1.0"
+    ]
+  },
+  {
+    "name": "Doyaara",
+    "description": "Doyaara is a trust for the needed ones found by the friends for the friends.",
+    "img_src": "./assets/images/userImages/doyaara.png",
+    "web_src": "http://doyaara.com",
+    "technologies": [
+      "Angular JS 1.5.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "PHP 5.6.10",
+      "MySQL 5.0.95"
+    ]
+  },
+  {
+    "name": "Honey Bee Quilling",
+    "description": "Honey Bee Quilling is a quilling gallery website for a quilling hobbist to promote and share their products.",
+    "img_src": "./assets/images/userImages/honeybeequilling.png",
+    "web_src": "http://honeybeequilling.likesyou.org",
+    "technologies": [
+      "Angular JS 1.4.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "PHP 5.6.10",
+      "Facebook Graph API"
+    ]
+  },
+  {
+    "name": "Fix Your PC",
+    "description": "Fix Your PC teaches you how to troubleshoot any PC model in 10 minutes.",
+    "img_src": "./assets/images/userImages/fixyourpc.png",
+    "web_src": "http://fixyourpc.my-webs.org",
+    "technologies": [
+      "PHP 5.3.28",
+      "HTML4/CSS2",
+      "MySQL 5.0.95",
+      "Google Ads"
+    ]
+  },
+  {
+    "name": "Money Manager",
+    "description": "Money Manager helps to manager our day-to-day expenses online with the help of graphical representations.",
+    "img_src": "./assets/images/userImages/moneymanager.png",
+    "web_src": "http://bigjapps.com/moneymanager",
+    "technologies": [
+      "Angular JS 1.5.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "PHP 5.6.10/ MySQL 5.0.95",
+      "Facebook Graph API"
+    ]
+  },
+  {
+    "name": "Star Wars",
+    "description": "Star Wars is a simple single page application to showcase the details of the characters and planets in Star Wars movie.",
+    "img_src": "./assets/images/userImages/swapi.png",
+    "web_src": "http://bigjapps.com/swapi",
+    "technologies": [
+      "Angular JS 1.5.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "Star Wars API"
+    ]
+  },
+  {
+    "name": "Video Uploader",
+    "description": "Video Uploader is a simple single page application to upload and manage videos.",
+    "img_src": "./assets/images/userImages/videouploader.png",
+    "web_src": "http://bigjapps.com/videoUploader",
+    "technologies": [
+      "Angular JS 1.5.8",
+      "HTML5/CSS3/Bootstrap 3",
+      "PHP 5.6.10",
+      "MySQL 5.0.95"
+    ]
+  }
+]
