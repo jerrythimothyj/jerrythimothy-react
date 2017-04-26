@@ -49038,6 +49038,8 @@ var _temp = function () {
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(exports, "a", function() { return API_URL; });
 /* harmony export (binding) */ __webpack_require__.d(exports, "b", function() { return DATA_URL; });
+// Direct to the API directly
+
 var API_URL = 'http://jerrythimothy.bigjapps.com/server/api.php/api=';
 var DATA_URL = 'http://jerrythimothy.bigjapps.com/data/';
 ;
